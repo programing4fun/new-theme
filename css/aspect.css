@@ -1,0 +1,128 @@
+#hea{
+    background-color: lightcyan;
+    height: 1cm;
+    opacity: 0.8;
+}
+#hae{
+    background-color: silver;
+    height:2cm;
+}
+.news{
+    float: right;
+    margin-right: 10px;
+    font-size: 20px;
+}
+#hae nav ul li a .news:hover{
+    float: right;
+    color:red;
+    font-size: 16px;
+
+}
+#hae .nav ul li{ 
+    list-style-type: none;
+}
+#hae .nav ul li a .ne{
+    color: darkviolet;
+    font-size: 30px;
+}
+#hae .nav ul li a .under{
+color: navy;
+font-size: 15px;
+margin-left: 47px;
+border: teal solid 1px;
+padding: 1px 2px;
+background-color: lightblue;
+opacity: 0.8;
+
+}
+#hae .nav ul li a{
+    text-decoration: none;
+    color: rebeccapurple;
+}
+#hea .na ul li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+#hea .na ul li a{
+    color:black;
+    text-decoration: none;
+    vertical-align: middle;
+}
+#hae .nav ul li input{
+    float: right;
+    font-size: 25px;
+    margin: 0 15px 15px 0;
+    border: pink 1px;
+    vertical-align: middle;
+    border-radius: 3px;
+    
+}
+#hae .nav ul li form .nut input:hover{
+cursor: pointer;
+background-color: darkblue;
+color: white;
+}
+#hae .nav ul li form .txt input{
+background-color: lavender;
+}
+#hea .na ul li a img{
+    width:4mm;
+    height:4mm;
+    margin-right: 4px;
+}
+body{
+    background-color: lightblue;
+}
+#hea .na ul{
+   padding-top: 9px;
+   margin-top:0;
+}
+.dropdown{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 3px;
+    width: 0;
+    height: 0;
+    border-top: 4px solid teal;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+    margin-right:35px;
+}
+#hea .na ul li a:hover{
+    color: red;
+}
+#hea .na ul .pastime li a:hover{
+    font-weight: normal;
+    color: navy;
+    font-size: 20px;
+}
+.search :cursor{
+color: blue;
+}
+.log{
+    background-color: greenyellow;
+    color: orangered;
+    font-size: 20px;
+    padding: 2px 8px;
+    margin-left: 20px;
+     border-radius: 2px;
+    color: black;
+    
+}
+.sign{
+    background-color: aqua;
+    color: darkmagenta;
+    font-size: 20px;
+    padding: 2px 8px;
+     border-radius: 2px;
+    color: black;
+    
+}
+#distan{
+    height: 0.7cm;
+    background-color: lightcyan;
+    opacity: 0.55;
+}
